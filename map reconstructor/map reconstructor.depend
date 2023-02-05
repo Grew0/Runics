@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622836327 source:c:\users\user\desktop\Данила\програмирование\sfml_otdelno\sfml platformer\map reconstructor\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
